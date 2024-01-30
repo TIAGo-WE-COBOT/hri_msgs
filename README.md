@@ -1,6 +1,8 @@
 hri_msgs
 ========
 
+**Note: this branch only contains ROS 1 support. For ROS 2, check the `humble-devel` branch.**
+
 This repository contains a set of ROS messages (ie, interfaces) of importance
 for human-robot interaction applications.
 
